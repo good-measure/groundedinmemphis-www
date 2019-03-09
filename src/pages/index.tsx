@@ -19,7 +19,7 @@ export default () => (
     </Intro>
 
     <BlockText
-      heading="Who we are"
+      heading="Who we are test"
       description={
         <>
           Ueno is a full-service agency, busy designing and building beautiful
