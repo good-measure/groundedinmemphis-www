@@ -24,7 +24,7 @@ export default () => (
           Ueno is a full-service agency, busy designing and building beautiful
           digital products, brands, and experiences. For more informations go to{' '}
           <a href="https://ueno.co" target="_blank" rel="noopener noreferrer">
-            ueno.co
+            ueno.co this is a test
           </a>
           .
         </>
